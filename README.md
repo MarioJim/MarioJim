@@ -24,6 +24,7 @@ I'm Mario Jiménez and I'm currently pursuing my bachelor's degree in Computer S
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-A42E2B?style=flat-square&logo=rust)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logoColor=white&logo=Node.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
@@ -32,7 +33,7 @@ I'm Mario Jiménez and I'm currently pursuing my bachelor's degree in Computer S
 
 ### 1-2 projects
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logoColor=white&logo=kotlin)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logoColor=white&logo=go)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logoColor=white&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logoColor=white&logo=redis)
